@@ -24,7 +24,9 @@ ul, li {
 
 .todoapp {
   background: #fff;
-  margin: 100px 0 40px 0;
+  margin: 100px auto;
+  min-width: 230px;
+  max-width: 550px;
 
   &__title {
     text-align: center;
